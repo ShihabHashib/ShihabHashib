@@ -1,11 +1,5 @@
 <img src="https://github.com/ShihabHashib/ShihabHashib/blob/1fee47ea836ffb17aad3dec7f78a734baa27f4d0/assets/Cover.jpg">
 
-<h1 align="center">Hi 👋, I'm Shihab Hashib</h1>
-<h3 align="center">A Full Stack Dev with Graphic Design skillset</h3>
-
-## Profile Views
-
-
   <table align="center">
     <tr>
       <th>Total Count</th>
