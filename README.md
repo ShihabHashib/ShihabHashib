@@ -11,7 +11,7 @@
     </tr>
   </table>
 
-<img height="100px" src="https://github.com/ShihabHashib/ShihabHashib/blob/463be291f0a0834537f4d25b4bdb572f6dace9ec/assets/Frontend.png">
+<img height="110px" src="https://github.com/ShihabHashib/ShihabHashib/blob/463be291f0a0834537f4d25b4bdb572f6dace9ec/assets/Frontend.png">
 
 <p align="left"> <a href="https://twitter.com/shihabhashib" target="blank"><img src="https://img.shields.io/twitter/follow/shihabhashib?logo=twitter&style=for-the-badge" alt="shihabhashib" /></a> </p>
 
