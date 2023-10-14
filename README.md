@@ -24,7 +24,7 @@
 <a href="https://www.hackerrank.com/shihabhashib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shihabhashib1" height="30" width="40" /></a>
 </p>
 
-<img width="796px" src="https://github.com/ShihabHashib/ShihabHashib/blob/463be291f0a0834537f4d25b4bdb572f6dace9ec/assets/Frontend.png">
+<img width="796px" src="https://github.com/ShihabHashib/ShihabHashib/blob/0c2d1cbfc30721884f65c1840310367978a96388/assets/Skill.png">
 
 ## My Stats:
 <p align="center">
