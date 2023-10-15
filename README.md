@@ -13,7 +13,7 @@
 
 
 - 💬 Ask me about **NextJs, React**
-- ⌨️ Typing speed is **80wpm**
+- ⌨️ Typing speed is around **80wpm**
 - 📫 How to reach me **shihabhashib@gmail.com**
 
 <br />
