@@ -15,8 +15,8 @@
 - 💬 Ask me about **NextJs, React**
 
 - 📫 How to reach me **shihabhashib@gmail.com**
-
-<img height="15px" src="https://github.com/ShihabHashib/ShihabHashib/blob/064cf29ff503ebd4fd14b1ac87fe72355e7c4842/assets/title.png">
+<br />
+<a href="https://github.com/shihabhashib"><img height="15px" src="https://github.com/ShihabHashib/ShihabHashib/blob/064cf29ff503ebd4fd14b1ac87fe72355e7c4842/assets/title.png"></a>
 <p align="left">
 <a href="https://twitter.com/shihabhashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shihabhashib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shihabhashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihabhashib" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 </p>
 
 
-<img width="775px" src="https://github.com/ShihabHashib/ShihabHashib/blob/main/assets/Skill.png">
+<a href="https://github.com/shihabhashib"><img width="775px" src="https://github.com/ShihabHashib/ShihabHashib/blob/main/assets/Skill.png"></a>
 
 ## My Stats:
 <p align="center">
