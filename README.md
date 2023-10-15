@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shihabhashib@gmail.com**
 
-- ⌨️ My Typing Speed is **80wpm**
+- ⌨️ My Typing Speed is **80wpm** at monkeytype
 <br />
 <a href="https://github.com/shihabhashib"><img height="23px" src="https://github.com/ShihabHashib/ShihabHashib/blob/090968db159a9b40bfc17bd835f1c66ebabfe547/assets/title.png"></a>
 <p align="left">
