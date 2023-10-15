@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shihabhashib@gmail.com**
 
-<img width="775px" src="https://github.com/ShihabHashib/ShihabHashib/blob/main/assets/Skill.png">
+<img height="35px" src="https://github.com/ShihabHashib/ShihabHashib/blob/6aa7af7f8262b73c631cbab2cfa775d9663e61a6/assets/title.png">
 <p align="left">
 <a href="https://twitter.com/shihabhashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shihabhashib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shihabhashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihabhashib" height="30" width="40" /></a>
@@ -24,7 +24,8 @@
 <a href="https://www.hackerrank.com/shihabhashib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shihabhashib1" height="30" width="40" /></a>
 </p>
 
-<img height="35px" src="https://github.com/ShihabHashib/ShihabHashib/blob/6aa7af7f8262b73c631cbab2cfa775d9663e61a6/assets/title.png">
+
+<img width="775px" src="https://github.com/ShihabHashib/ShihabHashib/blob/main/assets/Skill.png">
 
 ## My Stats:
 <p align="center">
