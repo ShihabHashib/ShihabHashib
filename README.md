@@ -34,7 +34,6 @@
 </p>
 
 ## Current Activity:
-
 <p align="center">
   <a href="https://github.com/shihabhashib">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabhashib&theme=dracula&hide_border=false"/>
