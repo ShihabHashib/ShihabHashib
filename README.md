@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="https://github.com/shihabhashib">      
-<img title="stats" alt="streak" src="https://leetcode-stats-six.vercel.app/?username=shihabhashib&theme=dark&hide_border=false"/>
+<img title="stats" alt="streak" src="https://leetcode-stats-six.vercel.app/?username=shihabhashib&theme=dracula"/>
 </a> 
 </p>
 
