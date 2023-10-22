@@ -27,11 +27,12 @@
 
 
 <a href="https://github.com/shihabhashib"><img width="775px" src="https://github.com/ShihabHashib/ShihabHashib/blob/main/assets/Skill.png"></a>
-
+<!--
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=shihabhashib&show_icons=true&theme=dracula">
 </p>
+-->
 
 ## Current Activity:
 <p align="center">
@@ -40,4 +41,9 @@
 </a> 
 </p>
 
+<p align="center">
+  <a href="https://github.com/shihabhashib">      
+<img title="stats" alt="streak" src="https://leetcode-stats-six.vercel.app/?username=shihabhashib&theme=dracula&hide_border=false"/>
+</a> 
+</p>
 
