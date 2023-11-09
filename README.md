@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/shihabhashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihabhashib" height="30" width="40" /></a>
 <a href="https://dribbble.com/shihabhashib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="shihabhashib" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shihabhashib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shihabhashib1" height="30" width="40" /></a>
-<a href="https://leetcode.com/shihabhashib/" target="blank"><img align="center" src="https://github.com/ShihabHashib/ShihabHashib/blob/b56b92a75af437662c53eb5e2d14e0c1573e2264/assets/leetcode.svg" alt="shihabhashib1" height="37" width="37" /></a>
+<a href="https://leetcode.com/shihabhashib/" target="blank"><img align="center" src="https://github.com/ShihabHashib/ShihabHashib/blob/4d63d54af8d8f0154177f2e3ba940e043498a8dd/assets/leetcode2.svg" alt="shihabhashib1" height="37" width="37" /></a>
 </p>
 
 
