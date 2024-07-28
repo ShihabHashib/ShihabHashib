@@ -39,7 +39,11 @@
 <p align="center">
 <a href="https://github.com/shihabhashib">      
 <img height="173px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabhashib&theme=dracula&hide_border=false"/>
-</a> <a href="https://leetcode.com/shihabhashib/">      
+</a> <a href="https://leetcode.com/shihabhashib/">   
+<img height="173px" title="stats" alt="streak" src="https://leetcard.jacoblin.cool/shihabhashib?theme=nord"/>
+  
+<!--
 <img height="173px" title="stats" alt="streak" src="https://leetcode-stats-six.vercel.app/?username=shihabhashib&theme=dark"/>
+-->
 </a> 
 </p>
