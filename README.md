@@ -11,7 +11,6 @@
     </tr>
   </table>
 
-
 - 💬 Ask me about **NextJs, React**
 - ⌨️ Typing speed is around **80wpm**
 - 📫 How to reach me **shihabhashib@gmail.com**
@@ -26,8 +25,8 @@
 <a href="https://leetcode.com/shihabhashib/" target="blank"><img align="center" src="https://github.com/ShihabHashib/ShihabHashib/blob/4d63d54af8d8f0154177f2e3ba940e043498a8dd/assets/leetcode2.svg" alt="shihabhashib1" height="36" width="36" /></a>
 </p>
 
-
 <a href="https://github.com/shihabhashib"><img width="775px" src="https://github.com/ShihabHashib/ShihabHashib/blob/main/assets/Skill.png"></a>
+
 <!--
 ## My Stats :
 <p align="center">
@@ -38,9 +37,9 @@
 <hr>
 <p align="center">
 <a href="https://github.com/shihabhashib">      
-<img height="173px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabhashib&theme=dracula&hide_border=false"/>
+<img height="167px" title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabhashib&theme=dracula&hide_border=false"/>
 </a> <a href="https://leetcode.com/shihabhashib/">   
-<img height="173px" title="stats" alt="streak" src="https://leetcard.jacoblin.cool/shihabhashib?theme=nord"/>
+<img height="166px" title="stats" alt="streak" src="https://leetcard.jacoblin.cool/shihabhashib?theme=nord"/>
   
 <!--
 <img height="173px" title="stats" alt="streak" src="https://leetcode-stats-six.vercel.app/?username=shihabhashib&theme=dark"/>
